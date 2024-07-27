@@ -19,9 +19,9 @@ By combining "Accommo" and "Edu," the name effectively communicates that the sof
 
 # Logical Viewpoint:
 
--The workflow starts with the "Search for Accommodation" action, which leads to displaying accommodation options.
+- The workflow starts with the "Search for Accommodation" action, which leads to displaying accommodation options.
 
--Subsequently, the user selects a preferred accommodation, progresses to book it, and confirms the associated booking details.
+- Subsequently, the user selects a preferred accommodation, progresses to book it, and confirms the associated booking details.
 
 This system is a linear sequence which is depicted in the Diagram using rounded rectangles to represent actions or activities, arrows to illustrate the flow of activities. The diagram is visually anchored by a black circle denoting the start of the workflow and concludes with an encircled black circle, symbolizing the final state.
 
